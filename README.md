@@ -9,7 +9,8 @@ Congratulations on completing your first deployment!! Next you will have to make
 - Fork this repo 👉(https://github.com/kura-labs-org/DEPLOY02_CRON_JOB) for the blank Jenkinsfile and make a pull request with:
   1. Documentation
   2. Screenshots
-  3. Jenkins pipeline script   
+  3. Jenkins pipeline script  
+  4. Stay awesome! 
 
 #  **Good Luck!!** :four_leaf_clover: 
 
