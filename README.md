@@ -1,6 +1,10 @@
-# FORK_ME
-Practice repo for the learners
-<h1 align=center>Deployment 2</h1>
+<h1 align=center>FORK_ME_COMPLETED</h1>
+
+<h4 align=center>Caden's Changes</h4>
+
+***
+
+### Practice Repo for Kura Learners
 
 Congratulations on completing your first deployment!! Next you will have to make a pipeline script with a Build, Test, and Deployment stage. After you create the script; trigger your build for every 10 minutes. Once you have successfully ran a scheduled job, find a way to schedule your ec2 to shutdown by the end of class. 
 
@@ -11,6 +15,8 @@ Congratulations on completing your first deployment!! Next you will have to make
   2. Screenshots
   3. Jenkins pipeline script   
 
-#  **Good Luck!!** :four_leaf_clover: 
+# Good Luck!! :grin: 
 
-![Jenkins](https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png)
+***
+
+![bash](https://itsfoss.com/wp-content/uploads/2019/01/bash-logo.jpg)
