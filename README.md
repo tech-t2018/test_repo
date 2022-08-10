@@ -14,3 +14,5 @@ Congratulations on completing your first deployment!! Next you will have to make
 #  **Good Luck!!** :four_leaf_clover: 
 
 ![Jenkins](https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png)
+
+![Jenkins](https://kuralabs.org/wp-content/uploads/2021/11/kura-labs.svg)
