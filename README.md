@@ -13,4 +13,4 @@ Congratulations on completing your first deployment!! Next you will have to make
 
 #  **Good Luck!!** :four_leaf_clover: 
 
-![Jenkins](https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png)
+![Jenkins](https://ih1.redbubble.net/image.1884934456.1834/st,small,507x507-pad,600x600,f8f8f8.jpg)
