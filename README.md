@@ -7,9 +7,9 @@ Congratulations on completing your first deployment!! Next you will have to make
 - Document the steps it took you to complete this task
 - Screenshots at least 2 successful scheduled trigger builds 
 - Fork this repo 👉(https://github.com/kura-labs-org/DEPLOY02_CRON_JOB) for the blank Jenkinsfile and make a pull request with:
-  1. Documentation
-  2. Screenshots
-  3. Jenkins pipeline script   
+  1. Documentation :four_leaf_clover:
+  2. Screenshots :four_leaf_clover:
+  3. Jenkins pipeline script  :four_leaf_clover: 
 
 #  **Good Luck!!** :four_leaf_clover: 
 
