@@ -11,6 +11,6 @@ Congratulations on completing your first deployment!! Next you will have to make
   2. Screenshots
   3. Jenkins pipeline script   
 
-#  **Good Luck!!** :four_leaf_clover: 
+#  **Good Luck!!** :four_leaf_clover: <Do not fail>
 
 ![Jenkins](https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png)
